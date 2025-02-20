@@ -1,5 +1,5 @@
 # Design Patterns
----
+
  **Design Patterns** are blueprints to solve common coding problems. They are more like strict [[pseudo code]] solutions. These patterns generally work in any  language.
 
 design patterns formal description 
@@ -15,7 +15,7 @@ design patterns formal description
 
 
 # Types of Patterns
----
+
 [[Creational Patterns]] 
 - Provide object creation mechanisms (increases flexibility and reuses existing code)
 [[Structural Patterns]]
@@ -25,7 +25,7 @@ design patterns formal description
 
 
 # Criticisms
----
+
 1. Weak programming language
 	language lacks the abstraction needed to easily implement features
 2. Inefficient solutions
