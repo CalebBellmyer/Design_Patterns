@@ -1,3 +1,5 @@
+# Design Patterns
+---
  **Design Patterns** are blueprints to solve common coding problems. They are more like strict [[pseudo code]] solutions. These patterns generally work in any  language.
 
 design patterns formal description 
