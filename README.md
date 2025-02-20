@@ -1,6 +1,6 @@
 # Design Patterns
 
- **Design Patterns** are blueprints to solve common coding problems. They are more like strict [[pseudo code]] solutions. These patterns generally work in any  language.
+ **Design Patterns** are blueprints to solve common coding problems. They are more like strict pseudo code solutions. These patterns generally work in any  language.
 
 design patterns formal description 
  - Intent 
@@ -16,11 +16,11 @@ design patterns formal description
 
 # Types of Patterns
 
-[[Creational Patterns]] 
+Creational Patterns 
 - Provide object creation mechanisms (increases flexibility and reuses existing code)
-[[Structural Patterns]]
+Structural Patterns
 - Explain how to assemble objects and classes into bigger structures while maintaining flexibility and efficiency
-[[Behavioral Patterns]]
+Behavioral Patterns
 - Communication and Assignment of responsibilities between objects
 
 
